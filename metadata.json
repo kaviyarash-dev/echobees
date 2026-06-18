@@ -1,0 +1,6 @@
+{
+  "name": "Echobees",
+  "description": "A refined leave request management system by Echobees, supporting dedicated HR/employee logins, real-time accrual, calendar schedules, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
